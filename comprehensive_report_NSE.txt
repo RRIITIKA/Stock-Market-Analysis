@@ -1,0 +1,157 @@
+Backtesting Comprehensive Report
+===============================
+
+RELIANCE.NS Metrics:
+Total Return: 0.7244930849609375
+Annualized Return: 0.11514743927217208
+Maximum Drawdown: 0.2072940346590011
+Sharpe Ratio: 0.7859598179570731
+Win/Loss Ratio: 1.3333333333333333
+Number of Trades: 8
+
+TCS.NS Metrics:
+Total Return: 0.9157127138671874
+Annualized Return: 0.13884882040652613
+Maximum Drawdown: 0.23635717502509648
+Sharpe Ratio: 0.6709162529641416
+Win/Loss Ratio: 1.5
+Number of Trades: 6
+
+HDFCBANK.NS Metrics:
+Total Return: 0.39179423950195313
+Annualized Return: 0.06835357331670222
+Maximum Drawdown: 0.3023209820066988
+Sharpe Ratio: 0.3306654559950862
+Win/Loss Ratio: 1.3333333333333333
+Number of Trades: 8
+
+HINDUNILVR.NS Metrics:
+Total Return: -0.1577859890136719
+Annualized Return: -0.033761156608929865
+Maximum Drawdown: 0.3088054952366774
+Sharpe Ratio: 0.4703414540466039
+Win/Loss Ratio: 1.2
+Number of Trades: 12
+
+INFY.NS Metrics:
+Total Return: 0.6429204229736327
+Annualized Return: 0.10439213637630584
+Maximum Drawdown: 0.3692188582551882
+Sharpe Ratio: 0.800578216067363
+Win/Loss Ratio: 1.3333333333333333
+Number of Trades: 8
+
+ICICIBANK.NS Metrics:
+Total Return: 1.071109639099121
+Annualized Return: 0.15675295599990724
+Maximum Drawdown: 0.21226906666349035
+Sharpe Ratio: 0.7896371067388314
+Win/Loss Ratio: 1.5
+Number of Trades: 6
+
+KOTAKBANK.NS Metrics:
+Total Return: -0.17922655310058588
+Annualized Return: -0.03873161390817925
+Maximum Drawdown: 0.30043647059849815
+Sharpe Ratio: 0.2860803551797468
+Win/Loss Ratio: 1.0
+Number of Trades: 9
+
+HDFC.NS Metrics:
+
+BHARTIARTL.NS Metrics:
+Total Return: 0.7431488850708008
+Annualized Return: 0.11754982914423384
+Maximum Drawdown: 0.13034463663245865
+Sharpe Ratio: 1.144116902408583
+Win/Loss Ratio: 1.3333333333333333
+Number of Trades: 8
+
+ITC.NS Metrics:
+Total Return: 0.7422550808105468
+Annualized Return: 0.11743520029762022
+Maximum Drawdown: 0.26324175426848057
+Sharpe Ratio: 0.5906313816373243
+Win/Loss Ratio: 1.5
+Number of Trades: 6
+
+SBIN.NS Metrics:
+Total Return: 1.7526251581726076
+Annualized Return: 0.22447356878082325
+Maximum Drawdown: 0.24463090798932752
+Sharpe Ratio: 0.6794307390784134
+Win/Loss Ratio: 1.5
+Number of Trades: 6
+
+ASIANPAINT.NS Metrics:
+Total Return: -0.004278323852539012
+Annualized Return: -0.0008571328651132415
+Maximum Drawdown: 0.2785281111920825
+Sharpe Ratio: 0.7287569863542395
+Win/Loss Ratio: 1.0
+Number of Trades: 11
+
+BAJFINANCE.NS Metrics:
+Total Return: 0.5025504094238282
+Annualized Return: 0.08484030024622036
+Maximum Drawdown: 0.3735608239251273
+Sharpe Ratio: 0.5107529981743264
+Win/Loss Ratio: 1.0
+Number of Trades: 7
+
+MARUTI.NS Metrics:
+Total Return: 0.25026399169921865
+Annualized Return: 0.045683715286644944
+Maximum Drawdown: 0.28535933363485533
+Sharpe Ratio: 0.5864822329131923
+Win/Loss Ratio: 1.25
+Number of Trades: 10
+
+LT.NS Metrics:
+Total Return: 1.86105769934082
+Annualized Return: 0.2339720512016703
+Maximum Drawdown: 0.22327856156899517
+Sharpe Ratio: 0.7428856688346653
+Win/Loss Ratio: 2.0
+Number of Trades: 4
+
+AXISBANK.NS Metrics:
+Total Return: 0.6570153753051757
+Annualized Return: 0.10628062821695416
+Maximum Drawdown: 0.3851058980540104
+Sharpe Ratio: 0.3916852018067839
+Win/Loss Ratio: 1.5
+Number of Trades: 6
+
+HCLTECH.NS Metrics:
+Total Return: 1.375649482727051
+Annualized Return: 0.18893051163180496
+Maximum Drawdown: 0.28169468683616034
+Sharpe Ratio: 0.9637512030290684
+Win/Loss Ratio: 1.0
+Number of Trades: 5
+
+ULTRACEMCO.NS Metrics:
+Total Return: 1.9355919033203124
+Annualized Return: 0.24033539231383627
+Maximum Drawdown: 0.2550893894701404
+Sharpe Ratio: 0.8127685625445006
+Win/Loss Ratio: 2.0
+Number of Trades: 4
+
+M&M.NS Metrics:
+Total Return: 2.036145111206055
+Annualized Return: 0.24871838213219055
+Maximum Drawdown: 0.1361119678943404
+Sharpe Ratio: 1.0329683524217066
+Win/Loss Ratio: 1.3333333333333333
+Number of Trades: 8
+
+SUNPHARMA.NS Metrics:
+Total Return: 2.2383777140197756
+Annualized Return: 0.26492710975458467
+Maximum Drawdown: 0.11631910422287443
+Sharpe Ratio: 1.215881529757026
+Win/Loss Ratio: 2.0
+Number of Trades: 4
+
